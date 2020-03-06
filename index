@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <title>
+    minha pagina
+    </title>
+    <body>
+
+        <h1>Introducao</h1>
+        
+        <h2>Motivacao</h2>
+        <p>Sejam bem vindos</p>
+        <p>Texto em <b>negrito</b> e <i>italico</i></p>
+        <img src="ENG.jpg"/>
+        <a href="file:///home/lab33ec/Documentos/pagina2.html"> Clique aqui </a>
+    </body>
+</html>
